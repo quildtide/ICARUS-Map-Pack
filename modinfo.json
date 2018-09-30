@@ -1,0 +1,23 @@
+{
+    "context": "client",
+    "identifier": "com.pa.dissonant.icarusmaps",
+    "display_name": "Clan ICARUS Map Pack",
+    "description": "Primarily high-metal single-planet maps for larger non-shared team games; NS = non-shared; AxB = A teams of B players; assembled by members and friends of ICARUS. Check out Grand Homie's Map Pack for additional content.",
+    "author": "Dissonant, MonkeySoldier",
+    "version": "0.99",
+    "build": "108271",
+    "date": "2018-07-30",
+    "signature": "not yet implemented",
+    "forum": "k",
+    "icon": "http://i.imgur.com/gx0DSMK.png",
+    "category": [
+        "maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/icarus/maps.js"
+],
+    "priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]}
