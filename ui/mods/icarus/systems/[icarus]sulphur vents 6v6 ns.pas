@@ -1,11 +1,11 @@
-{
-    "name": "Stykadès",
-    "description":"(Recommended for 10+ players).  Barren moon with evenly spread clusters of metal with enough free space in between to build factories.  No landing zones are set so you can use this planet for any set up and PA will generate them adequately.  (102 clusters of 4 metal points).",
-    "version":"1.1",
-    "creator":"Grand Homie",
+﻿{
+    "name": "[ICARUS]Sulphur Vents 6v6 NS",
+    "description":"6v6 unshared moon with high metal density. Mirrored North vs South, but spawns are unique for each player per team. Metal distribution stolen from Grand Homie's map, Stykades. Based on Ypres (also by Grand Homie).",
+    "version":"0.9",
+    "creator":"Dissonant",
     "planets": [
         {
-            "name": "Stykadès",
+            "name": "Sulphur Vents",
             "mass": 10000,
             "position_x": -600,
             "position_y": -17800,
@@ -19,7 +19,7 @@
             "max_spawn_delay": 0,
             "planet": {
                 "seed": 1068903808,
-                "radius": 650,
+                "radius": 630,
                 "heightRange": 0,
                 "waterHeight": 0,
                 "waterDepth": 0,
@@ -29,7 +29,7 @@
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
                 "biome": "moon",
-                "symmetryType": "none",
+                "symmetryType": "terrain and CSG",
                 "symmetricalMetal": false,
                 "symmetricalStarts": false,
                 "numArmies": 2,
