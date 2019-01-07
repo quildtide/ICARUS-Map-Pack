@@ -1,7 +1,7 @@
 {
-    "name": "[ICARUS]Vulgar Masses 5v5 NS",
-    "description":"5v5 unshared planet with small ponds for Kaiju production. Mirrored North vs South, but spawns are unique for each player per team.",
-    "version":"1",
+    "name": "Vulgar Masses 5v5 NS",
+    "description":"5v5 unshared planet with small ponds for Kaiju production. Mirrored North vs South, with sequential spawns, but spawns are unique for each player per team.",
+    "version":"1.01",
     "creator":"MonkeySoldier",
     "players":[10, 10],
     "planets": [

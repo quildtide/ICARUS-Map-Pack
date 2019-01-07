@@ -1,7 +1,7 @@
  {
     "name": "[ICARUS]Juggernaut 4v4v4 or 6x2 NS",
-"description":"4v4v4 or 6x2 (6 teams of 2) unshared barren moon with high metal density. All spawns are mirrored.",
-    "version":"1",
+"description":"4v4v4 or 6x2 (6 teams of 2) unshared barren moon with high metal density. All spawns are mirrored in a 6-way symmetry.",
+    "version":"1.01",
     "creator":"Dissonant",
     "players":[12, 12],
 

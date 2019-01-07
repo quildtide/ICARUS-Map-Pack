@@ -1,8 +1,9 @@
 {
-	"name": "[ICARUS}Alcor HS",
-	"description": "Hemispheric Team-wide Spawns for 4v4 or 5v5. Polar Team-wide Spawns for 3v3v3. Supports both Non-Shared and Shared Armies. Barren Moon with 97 clusters of 4 metal points. Map by Grand Homie; Spawns by Dissonant.",
-	"version": "1.0",
+	"name": "Alcor 6v6/7v7 HS",
+	"description": "Hemispheric Team-wide Spawns for 6v6 or 7v7. Supports both Non-Shared and Shared Armies. Barren Moon with 97 clusters of 4 metal points. Map by Grand Homie; Spawns by Dissonant.",
+	"version": "1.01",
 	"creator": "Grand Homie, Dissonant",
+	"players":[12, 14],
 	"planets": [{
 		"name": "Alcor",
 		"mass": 10000,
