@@ -10,7 +10,7 @@ cShareSystems.load_pas("ICARUS - <10 Players", [
     "coui://ui/mods/icarus/systems/monkey/fusile_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/the_iron_cross_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/middleearth_5v5 ns.pas",
-    "coui://ui/mods/icarus/systems/anon/phantom_contruct_5v5 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/phantom_construct_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/vulgar_masses_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/war_infection_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/westward_5v5 ns.pas"
