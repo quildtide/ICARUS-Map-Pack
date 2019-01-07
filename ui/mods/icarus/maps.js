@@ -16,7 +16,7 @@ cShareSystems.load_pas("ICARUS - <10 Players", [
     "coui://ui/mods/icarus/systems/anon/westward_5v5 ns.pas"
 ]);
 
-cShareSystems.load_pas("ICARUS - 11+ Players", "ICARUS 11+ Players", [
+cShareSystems.load_pas("ICARUS - 11+ Players", [
     "coui://ui/mods/icarus/systems/monkey/hell_wars_6v6 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/lion_killer_7v7 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/colder_logic_8v8 ns.pas",
@@ -29,7 +29,7 @@ cShareSystems.load_pas("ICARUS - 11+ Players", "ICARUS 11+ Players", [
     "coui://ui/mods/icarus/systems/diss/juggernaut_6x2_4v4v4 ns.pas",
 ]);
 
-cShareSystems.load_pas("ICARUS - Special Spawns", [
+cShareSystems.load_pas("ICARUS - Special", [
     "coui://ui/mods/icarus/systems/diss/alcor_6v6_7v7 ds.pas",
     "coui://ui/mods/icarus/systems/anon/system-shock ds.pas",
     "coui://ui/mods/icarus/systems/anon/system-surge ds.pas",
