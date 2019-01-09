@@ -1,11 +1,12 @@
 {
-    "name": "[ICARUS]Vortex Valley 6v6 NS",       "description":"6v6 unshared moon with high metal density. Mirrored North vs South, but spawns are unique for each player per team.",
-    "version":"1",
+    "name": "The Ledge 6v6 NS",       
+    "description":"6v6 unshared moon with high metal density. Mirrored North vs South, with sequential spawns, but spawns are unique for each player per team.",
+    "version":"1.01",
     "creator":"Dissonant",
     "players":[12, 12],
     "planets": [
         {
-            "name": "Valley Girl",
+            "name": "The Ledge",
             "mass": 5000,
             "position_x": 81400,
             "position_y": 27400,
