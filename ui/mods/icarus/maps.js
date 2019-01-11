@@ -23,8 +23,11 @@ cShareSystems.load_pas("ICARUS - 11+ Players", [
     "coui://ui/mods/icarus/systems/monkey/fake_history_9v9 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/killbox_10v10 ns.pas",
     "coui://ui/mods/icarus/systems/anon/tides_6v6 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/zpra_7v7 ns.pas",
     "coui://ui/mods/icarus/systems/diss/the_ledge_6v6 ns.pas",
     "coui://ui/mods/icarus/systems/diss/the_dried_lake_7v7 ns.pas",
+    "coui://ui/mods/icarus/systems/diss/the_blood_aqueduct_8v8 ns.pas",
+    "coui://ui/mods/icarus/systems/diss/lava_chamber_7v7 ns.pas",
     "coui://ui/mods/icarus/systems/anon/armadillo_3v3v3v3 ns.pas",
     "coui://ui/mods/icarus/systems/diss/juggernaut_6x2_4v4v4 ns.pas",
 ]);
