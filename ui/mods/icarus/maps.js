@@ -2,6 +2,7 @@ cShareSystems.load_pas("ICARUS - <10 Players", [
     "coui://ui/mods/icarus/systems/monkey/execration_1v1 ns.pas",
     "coui://ui/mods/icarus/systems/anon/regolith&steel_1v1 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/thoth_2v2 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/rolling_hills_2v2 ns.pas",
     "coui://ui/mods/icarus/systems/anon/beachfront_3v3 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/hierophant_3v3 ns.pas",
     "coui://ui/mods/icarus/systems/anon/monstribus_3v3 ns.pas",
@@ -11,6 +12,8 @@ cShareSystems.load_pas("ICARUS - <10 Players", [
     "coui://ui/mods/icarus/systems/anon/the_iron_cross_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/middleearth_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/phantom_construct_5v5 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/ringoffire_5v5 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/sedimentary_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/vulgar_masses_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/war_infection_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/westward_5v5 ns.pas"
@@ -31,7 +34,12 @@ cShareSystems.load_pas("ICARUS - 11+ Players", [
 
 cShareSystems.load_pas("ICARUS - Special", [
     "coui://ui/mods/icarus/systems/diss/alcor_6v6_7v7 ds.pas",
+    "coui://ui/mods/icarus/systems/anon/atree'splace ds.pas",
+    "coui://ui/mods/icarus/systems/anon/dunes ds.pas",
     "coui://ui/mods/icarus/systems/anon/system-shock ds.pas",
+    "coui://ui/mods/icarus/systems/anon/system-double ds.pas",
+    "coui://ui/mods/icarus/systems/anon/system_crash ds.pas",
+    "coui://ui/mods/icarus/systems/anon/system_re-boot ds.pas",
     "coui://ui/mods/icarus/systems/anon/system-surge ds.pas",
     "coui://ui/mods/icarus/systems/anon/threepaths ds.pas",
     "coui://ui/mods/icarus/systems/anon/threepaths_x3 ds.pas",
