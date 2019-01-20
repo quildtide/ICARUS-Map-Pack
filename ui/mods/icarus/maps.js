@@ -39,6 +39,7 @@ cShareSystems.load_pas("ICARUS - Special", [
     "coui://ui/mods/icarus/systems/diss/alcor_6v6_7v7 ds.pas",
     "coui://ui/mods/icarus/systems/anon/atree'splace ds.pas",
     "coui://ui/mods/icarus/systems/anon/dunes ds.pas",
+    "coui://ui/mods/icarus/systems/anon/tale_of_two_worlds ds.pas",
     "coui://ui/mods/icarus/systems/anon/system-shock ds.pas",
     "coui://ui/mods/icarus/systems/anon/system-double ds.pas",
     "coui://ui/mods/icarus/systems/anon/system_crash ds.pas",

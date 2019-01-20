@@ -1,7 +1,7 @@
 {
     "name": "System Re-Boot DS",
-    "description":"A dynamic spawn map with 3 smaller starting planets. The system is built around a metal planet. An asteroid spawns into the system bewteen 10 to 40 minutes after start. Supports shared or even unshared teams up to a 16v16. Recommended 9v9 or 12v12.",
-    "version":"1.0",
+    "description":"A dynamic spawn map with 3 smaller starting planets, built around a metal planet. An asteroid spawns into the system 1-40 minutes after start. Players share spawns with their teammates. Supports 2 teams of 1-16 players each, shared or unshared. Recommended 9v9 or 12v12.",
+    "version":"1.01",
     "creator":"Anonemous2",
     "players":[16, 32],
     "planets": [
