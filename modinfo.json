@@ -4,9 +4,9 @@
     "display_name": "Clan ICARUS Map Pack",
     "description": "Primarily maps for larger non-shared team games; NS = non-shared; DS = dynamic spawns; AxB = A teams of B players; assembled by members and friends of ICARUS. Check out Grand Homie's Map Pack for additional content.",
     "author": "Clan ICARUS (see map credits)",
-    "version": "1.05",
+    "version": "1.06",
     "build": "112589",
-    "date": "2019-01-20",
+    "date": "2019-02-16",
     "signature": "not yet implemented",
     "forum": "https://forums.planetaryannihilation.com/threads/clan-icarus-map-pack.73237/",
     "icon": "https://i.imgur.com/N4LTmoZ.png",
@@ -15,5 +15,6 @@
 ],
     "priority": 100,
     "dependencies": [
-        "com.pa.conundrum.cShareSystems"
+        "com.pa.conundrum.cShareSystems",
+        "uk.pa.tetctree.server"
     ]}

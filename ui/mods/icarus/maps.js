@@ -32,6 +32,8 @@ cShareSystems.load_pas("ICARUS - 11+ Players", [
     "coui://ui/mods/icarus/systems/diss/the_blood_aqueduct_8v8 ns.pas",
     "coui://ui/mods/icarus/systems/diss/lava_chamber_7v7 ns.pas",
     "coui://ui/mods/icarus/systems/anon/armadillo_3v3v3v3 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/tables_3v3v3v3 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/ragnarok_6x3_6x2 ns.pas",
     "coui://ui/mods/icarus/systems/diss/juggernaut_6x2_4v4v4 ns.pas",
 ]);
 
