@@ -12,6 +12,9 @@ cShareSystems.load_pas("ICARUS - <10 Players", [
     "coui://ui/mods/icarus/systems/anon/updated/the_strip_4v4_ns.pas",
     "coui://ui/mods/icarus/systems/anon/new/stiring_4v4_ns.pas",
     "coui://ui/mods/icarus/systems/anon/new/telco_4v4_ns.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/fission_4v4 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/fuse_4v4 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/fussion_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/fusile_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/the_iron_cross_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/middleearth_5v5 ns.pas",
@@ -25,7 +28,7 @@ cShareSystems.load_pas("ICARUS - <10 Players", [
 
 cShareSystems.load_pas("ICARUS - 11+ Players", [
     "coui://ui/mods/icarus/systems/monkey/hell_wars_6v6 ns.pas",
-    "coui://ui/mods/icarus/systems/anon/tides_6v6 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/updated/xpres_6v6 ns.pas",
     "coui://ui/mods/icarus/systems/diss/the_ledge_6v6 ns.pas",
     "coui://ui/mods/icarus/systems/anon/new/icon_6v6_ns.pas",
     "coui://ui/mods/icarus/systems/diss/the_dried_lake_7v7 ns.pas",
@@ -36,12 +39,24 @@ cShareSystems.load_pas("ICARUS - 11+ Players", [
     "coui://ui/mods/icarus/systems/diss/the_blood_aqueduct_8v8 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/fake_history_9v9 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/killbox_10v10 ns.pas",
-    "coui://ui/mods/icarus/systems/anon/armadillo_3v3v3v3 ns.pas",
     "coui://ui/mods/icarus/systems/anon/tables_3v3v3v3 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/armadillo_3v3v3v3 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/glyptodon_6x3 ns.pas",
     "coui://ui/mods/icarus/systems/anon/ragnarok_6x3_6x2 ns.pas",
     "coui://ui/mods/icarus/systems/diss/juggernaut_6x2_4v4v4 ns.pas",
     "coui://ui/mods/icarus/systems/anon/new/gizmos_8v8v8_ns.pas",
-    "coui://ui/mods/icarus/systems/anon/new/exile_24_ffa.pas",
+]);
+
+cShareSystems.load_pas("ICARUS - FFA", [
+    "coui://ui/mods/icarus/systems/anon/newnew/spark.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/flash.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/volt.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/intrepid_16 ffa.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/kuiper_18 ffa.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/tirade_24 ffa.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/guns_24 ffa.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/kersmash_32 ffa.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/the_maul 32 ffa.pas",
 ]);
 
 cShareSystems.load_pas("ICARUS - Special", [

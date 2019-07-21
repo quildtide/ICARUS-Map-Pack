@@ -1,7 +1,7 @@
 {
-    "name": "Tides 6v6 NS",
-    "description": "6v6 unshared moon in the vein of Ypres, with high metal density. Mirrored North vs South, but spawns are unique for each player per team.",
-    "version": "1.01",
+    "name": "Xpres 6v6 NS",
+    "description": "6v6 unshared moon in the vein of Ypres, with high metal density. Mirrored East vs West, but spawns are unique for each player per team. (Formerly known as Tides)",
+    "version": "1.02",
     "creator": "Anonemous2",
     "players": [
         12,
@@ -4055,5 +4055,6 @@
                 ]
             }
         }
-    ]
+    ],
+    "system_index": 1
 }
