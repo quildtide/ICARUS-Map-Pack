@@ -23,7 +23,8 @@ cShareSystems.load_pas("ICARUS - <10 Players", [
     "coui://ui/mods/icarus/systems/anon/sedimentary_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/vulgar_masses_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/war_infection_5v5 ns.pas",
-    "coui://ui/mods/icarus/systems/anon/westward_5v5 ns.pas"
+    "coui://ui/mods/icarus/systems/anon/westward_5v5 ns.pas",
+    "coui://ui/mods/icarus/systems/diss/john_is old_5v5 ns.pas",
 ]);
 
 cShareSystems.load_pas("ICARUS - 11+ Players", [
@@ -45,12 +46,6 @@ cShareSystems.load_pas("ICARUS - 11+ Players", [
     "coui://ui/mods/icarus/systems/anon/ragnarok_6x3_6x2 ns.pas",
     "coui://ui/mods/icarus/systems/diss/juggernaut_6x2_4v4v4 ns.pas",
     "coui://ui/mods/icarus/systems/anon/new/gizmos_8v8v8_ns.pas",
-]);
-
-cShareSystems.load_pas("ICARUS - FFA", [
-    "coui://ui/mods/icarus/systems/anon/newnew/spark.pas",
-    "coui://ui/mods/icarus/systems/anon/newnew/flash.pas",
-    "coui://ui/mods/icarus/systems/anon/newnew/volt.pas",
     "coui://ui/mods/icarus/systems/anon/newnew/intrepid_16 ffa.pas",
     "coui://ui/mods/icarus/systems/anon/newnew/kuiper_18 ffa.pas",
     "coui://ui/mods/icarus/systems/anon/newnew/tirade_24 ffa.pas",
@@ -59,7 +54,10 @@ cShareSystems.load_pas("ICARUS - FFA", [
     "coui://ui/mods/icarus/systems/anon/newnew/the_maul 32 ffa.pas",
 ]);
 
-cShareSystems.load_pas("ICARUS - Special", [
+cShareSystems.load_pas("ICARUS - Variable Size", [
+    "coui://ui/mods/icarus/systems/diss/arid_lake hs 4v4-5v5.pas",
+    "coui://ui/mods/icarus/systems/diss/burial_chambers hs 4v4-5v5.pas",
+    "coui://ui/mods/icarus/systems/diss/beach_hs_4v4-6v6.pas",
     "coui://ui/mods/icarus/systems/diss/alcor_6v6_7v7 ds.pas",
     "coui://ui/mods/icarus/systems/anon/atree'splace ds.pas",
     "coui://ui/mods/icarus/systems/anon/dunes ds.pas",
@@ -71,8 +69,15 @@ cShareSystems.load_pas("ICARUS - Special", [
     "coui://ui/mods/icarus/systems/anon/system_re-boot ds.pas",
     "coui://ui/mods/icarus/systems/anon/system-surge ds.pas",
     "coui://ui/mods/icarus/systems/anon/new/beasts_ds.pas",
+    "coui://ui/mods/icarus/systems/diss/fools_journey_ds.pas",
     "coui://ui/mods/icarus/systems/anon/threepaths ds.pas",
     "coui://ui/mods/icarus/systems/anon/threepaths_x3 ds.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/spark.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/flash.pas",
+    "coui://ui/mods/icarus/systems/anon/newnew/volt.pas",
+]);
+
+cShareSystems.load_pas("ICARUS - Abnormal Spawns", [
     "coui://ui/mods/icarus/systems/anon/new/graveyardshift_3v3_ns.pas",
     "coui://ui/mods/icarus/systems/monkey/prison_colony_4v4 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/dirge_field_6v6 ns.pas"

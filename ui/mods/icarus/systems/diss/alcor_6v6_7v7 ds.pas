@@ -1,5 +1,5 @@
 {
-	"name": "Alcor 6v6/7v7 HS",
+	"name": "Alcor HS 6v6/7v7",
 	"description": "Hemispheric Team-wide Spawns for 6v6 or 7v7. Supports both Non-Shared and Shared Armies. Barren Moon with 97 clusters of 4 metal points. Map by Grand Homie; Spawns by Dissonant.",
 	"version": "1.01",
 	"creator": "Grand Homie, Dissonant",

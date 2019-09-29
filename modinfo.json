@@ -1,37 +1,25 @@
 {
     "context": "client",
-    "identifier": "com.pa.dissonant.icarusmaps",
+    "identifier": "com.pa.dissonant.icarusmaps-test",
     "display_name": "Clan ICARUS Map Pack",
     "description": "Primarily maps for larger non-shared team games; NS = non-shared; DS = dynamic spawns; AxB = A teams of B players; assembled by members and friends of ICARUS. Check out Grand Homie's Map Pack for additional content.",
     "author": "Clan ICARUS (see map credits)",
-    "version": "1.10",
-    "build": "109959",
-    "date": "2019-07-21",
+    "version": "1.11",
+    "build": "113457",
+    "date": "2019-08-17",
     "signature": "not yet implemented",
     "forum": "https://forums.planetaryannihilation.com/threads/clan-icarus-map-pack.73237/",
     "icon": "https://i.imgur.com/N4LTmoZ.png",
     "priority": 100,
     "dependencies": [
         "com.pa.conundrum.cShareSystems",
-        "uk.pa.tetctree.server"
-    ],
-    "url": "https://github.com/Thalassocracy/ICARUS-Map-Pack/archive/master.zip",
-    "download": "https://cdn.palobby.com/community-mods/downloads/com.pa.dissonant.icarusmaps.zip",
-    "unitList": false,
-    "fileSystem": false,
-    "searchable": [
-        "clan",
-        "icarus",
-        "map",
-        "pack",
-        "clan icarus (see map credits)"
+        "uk.pa.tetctree.server",
+        "com.pa.grandhomie.simplebiomes.server"
     ],
     "sort": "clan icarus map pack",
     "authors": [
         "Clan ICARUS (see map credits)"
     ],
-    "timestamp": 1550275200000,
-    "companions": [],
     "scenes": {
         "load_planet": [
             "coui://ui/mods/icarus/maps.js"
