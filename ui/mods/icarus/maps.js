@@ -39,5 +39,6 @@ cShareSystems.load_pas("ICARUS - Special", [
     "coui://ui/mods/icarus/systems/anon/threepaths ds.pas",
     "coui://ui/mods/icarus/systems/anon/threepaths_x3 ds.pas",
     "coui://ui/mods/icarus/systems/monkey/prison_colony_4v4 ns.pas",
-    "coui://ui/mods/icarus/systems/monkey/dirge_field_6v6 ns.pas"
+    "coui://ui/mods/icarus/systems/monkey/dirge_field_6v6 ns.pas",
+    "coui://ui/mods/icarus/systems/diss/the_fool's journey.pas",
 ]);
