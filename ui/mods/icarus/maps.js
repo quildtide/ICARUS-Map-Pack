@@ -8,12 +8,14 @@ cShareSystems.load_pas("ICARUS - <10 Players", [
     "coui://ui/mods/icarus/systems/monkey/hierophant_3v3 ns.pas",
     "coui://ui/mods/icarus/systems/anon/monstribus_3v3 ns.pas",
     "coui://ui/mods/icarus/systems/anon/new/porcupine_3v3_ns.pas",
+    "coui://ui/mods/icarus/systems/anon/newnewnew/rafters_3v3 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/scipio_4v4 ns.pas",
     "coui://ui/mods/icarus/systems/anon/updated/the_strip_4v4_ns.pas",
     "coui://ui/mods/icarus/systems/anon/new/stiring_4v4_ns.pas",
     "coui://ui/mods/icarus/systems/anon/new/telco_4v4_ns.pas",
     "coui://ui/mods/icarus/systems/anon/newnew/fission_4v4 ns.pas",
     "coui://ui/mods/icarus/systems/anon/newnew/fuse_4v4 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/newnewnew/appalachian_4v4 ns.pas",
     "coui://ui/mods/icarus/systems/anon/newnew/fussion_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/fusile_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/the_iron_cross_5v5 ns.pas",
@@ -25,6 +27,7 @@ cShareSystems.load_pas("ICARUS - <10 Players", [
     "coui://ui/mods/icarus/systems/monkey/war_infection_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/westward_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/diss/john_is old_5v5 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/newnewnew/battle_of midway 5v5 ns.pas",
 ]);
 
 cShareSystems.load_pas("ICARUS - 11+ Players", [
@@ -42,6 +45,10 @@ cShareSystems.load_pas("ICARUS - 11+ Players", [
     "coui://ui/mods/icarus/systems/monkey/killbox_10v10 ns.pas",
     "coui://ui/mods/icarus/systems/anon/tables_3v3v3v3 ns.pas",
     "coui://ui/mods/icarus/systems/anon/armadillo_3v3v3v3 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/newnewnew/squabble_4v4v4 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/newnewnew/bury_the ant 4v4v4v4 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/newnewnew/gateway_5v5v5 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/newnewnew/clockwork_5v5v5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/newnew/glyptodon_6x3 ns.pas",
     "coui://ui/mods/icarus/systems/anon/ragnarok_6x3_6x2 ns.pas",
     "coui://ui/mods/icarus/systems/diss/juggernaut_6x2_4v4v4 ns.pas",
@@ -75,6 +82,7 @@ cShareSystems.load_pas("ICARUS - Variable Size", [
     "coui://ui/mods/icarus/systems/anon/newnew/spark.pas",
     "coui://ui/mods/icarus/systems/anon/newnew/flash.pas",
     "coui://ui/mods/icarus/systems/anon/newnew/volt.pas",
+    "coui://ui/mods/icarus/systems/anon/newnewnew/noiban_ffa.pas",
 ]);
 
 cShareSystems.load_pas("ICARUS - Abnormal Spawns", [
