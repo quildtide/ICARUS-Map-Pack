@@ -1,5 +1,5 @@
 {
-    "name": "(New) Appalachian 4v4 NS",
+    "name": "Appalachian 4v4 NS",
     "description": "Inspired by Bastille and Tyburn, but with mountains and asymetery.",
     "version": "1.0",
     "creator": "Anonemous2",

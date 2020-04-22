@@ -1,5 +1,5 @@
 {
-    "name": "(New) Battle of Midway 5v5 NS",
+    "name": "Battle of Midway 5v5 NS",
     "description": "A multiplanet systen with 1 laned planet (3v3), 2 moons (1 for each team) orbiting a small gas planet.",
     "version": "1.0",
     "creator": "Anonemous2",

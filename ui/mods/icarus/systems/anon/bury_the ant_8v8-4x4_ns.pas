@@ -1,5 +1,5 @@
 {
-    "name": "(New) Bury the Ant 4v4v4v4 NS",
+    "name": "Bury the Ant 4x4/8v8 NS",
     "description": "A laned planet with main/side lanes.(Supports 8v8 NS too.)",
     "version": "1.0",
     "creator": "Anonemous2",

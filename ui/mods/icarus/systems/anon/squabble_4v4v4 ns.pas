@@ -1,5 +1,5 @@
 {
-    "name": "(New) Squabble 4v4v4 NS",
+    "name": "Squabble 3x4 NS",
     "description": "Similar to Beat on the Bot, but with other planets.",
     "version": "1.0",
     "creator": "Anonemous2",

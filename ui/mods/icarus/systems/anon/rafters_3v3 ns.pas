@@ -1,5 +1,5 @@
 {
-    "name": "(New) Rafters 3v3 NS",
+    "name": "Rafters 3v3 NS",
     "description": "A planet with many bridges.",
     "version": "1.0",
     "creator": "Anonemous2",

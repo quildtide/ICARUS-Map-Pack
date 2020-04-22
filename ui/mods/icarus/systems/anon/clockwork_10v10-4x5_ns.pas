@@ -1,5 +1,5 @@
 {
-    "name": "(New) Clockwork 5v5v5v5 NS",
+    "name": "Clockwork 10v10/4x5 NS",
     "description": "A large laned planet with alternating 3v3/2v2s (Supports 10v10 NS too.)",
     "version": "1.0",
     "creator": "Anonemous2",

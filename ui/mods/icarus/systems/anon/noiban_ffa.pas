@@ -1,5 +1,5 @@
 {
-    "name": "(New) NoIban FFA",
+    "name": "NoIban FFA",
     "description": "Inspired by that lumpy planet that iban keeps hosting, but its more balanced.",
     "version": "1.0",
     "creator": "Anonemous2",

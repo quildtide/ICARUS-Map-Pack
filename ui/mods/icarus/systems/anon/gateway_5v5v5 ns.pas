@@ -1,5 +1,5 @@
 {
-    "name": "(New) Gateway 5v5v5 NS",
+    "name": "Gateway 5v5v5 NS",
     "description": "Laned Icy planet with a moon that spawns in 20+ minutes in",
     "version": "1.0",
     "creator": "Anonemous2",
