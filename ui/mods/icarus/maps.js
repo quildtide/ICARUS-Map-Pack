@@ -77,8 +77,8 @@ cShareSystems.load_pas("ICARUS - 11+ Players", [
     "coui://ui/mods/icarus/systems/anon/guns_24 ffa.pas",
     "coui://ui/mods/icarus/systems/anon/kersmash_32 ffa.pas",
     "coui://ui/mods/icarus/systems/anon/the_maul 32 ffa.pas",
-    "coui://ui/mods/icarus/systems/anon/flash.pas",
     "coui://ui/mods/icarus/systems/diss/big_wadiya.pas",
+    "coui://ui/mods/icarus/systems/anon/flash.pas",
     "coui://ui/mods/icarus/systems/diss/greater_wadiya.pas",
     "coui://ui/mods/icarus/systems/anon/volt.pas",
 ]);
