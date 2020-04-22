@@ -1,5 +1,5 @@
 {
-    "name": "Gizmos 8v8v8 NS",
+    "name": "Gizmos 3x8/3x4/6x4/6x2 NS",
     "description": "A large 8v8v8 (or 4v4v4v4v4v4, or 4v4v4, or 2v2v2v2v2v2) non-shared armies single planet map.",
     "version": "1.0",
     "creator": "Anonemous2",
