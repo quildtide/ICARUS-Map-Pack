@@ -1,9 +1,9 @@
 {
-    "name": "John is Old HS 4v4-5v5",
+    "name": "John is Old 5v5 NS",
     "description": "Relatively flat 5v5 Non-Shared map with high metal and some trees, North vs South.",
 	"version": "1.00",
 	"creator": "Dissonant",
-	"players":[8, 10],
+	"players":[10, 10],
     "planets": [
         {
             "name": "Moldy Potato",
