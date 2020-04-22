@@ -1,5 +1,5 @@
 {
-    "name": "Tables 3v3v3v3 NS",
+    "name": "Tables 4x3 NS",
     "description": "A desert planet with North/South and East/West symmetry. Also supports 6v6, 4v4, or a 2v2v2v2 NS.",
     "version": "1.01",
     "creator": "Anonemous2",

@@ -1,5 +1,5 @@
 {
-    "name": "The Fool's Journey DS",
+    "name": "The Fool's Journey DS 4v4-10v10",
     "description": "Hectic Multiplanet System that supports 2 teams of up to 10 players each. Supports Non-Shared and Shared Armies alike.",
 	"version": "2.00",
 	"creator": "Dissonant",
@@ -15804,14 +15804,14 @@
             "required_thrust_to_move": 1,
             "starting_planet": false,
             "respawn": false,
-            "start_destroyed": false,
+            "start_destroyed": true,
             "min_spawn_delay": 0,
             "max_spawn_delay": 0,
             "planet": {
                 "seed": 1639152256,
                 "radius": 250,
                 "heightRange": 0,
-                "waterHeight": 100,
+                "waterHeight": 70,
                 "waterDepth": 100,
                 "temperature": 23,
                 "metalDensity": 0,

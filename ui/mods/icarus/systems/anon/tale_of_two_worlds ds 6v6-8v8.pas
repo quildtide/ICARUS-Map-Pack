@@ -1,5 +1,5 @@
 {
-    "name": "Tale of Two Worlds DS",
+    "name": "Tale of Two Worlds DS 6v6-8v8",
     "description":"A dynamic spawn map with 2 roughly even planets. Both planets are reflected through their center. Players share spawns with their teammates. Supports 2 teams of 1-8 players each, shared or unshared. Recommended 6v6 or 8v8.",
     "version":"1.01",
     "creator":"Anonemous2",

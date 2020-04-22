@@ -1,5 +1,5 @@
 {
-    "name": "System-Double DS",
+    "name": "System-Double DS 8v8-10v10",
     "description":"A dynamic spawn map with 2 even metal planets. Both planets have 180 rotational symmetry. Players share spawns with their teammates. Supports 2 teams of 1-10 players each, shared or unshared. Recommended 6v6 or 8v8.",
     "version":"1.1",
     "creator":"Anonemous2",

@@ -1,5 +1,5 @@
 {
-    "name": "ThreePaths x3 DS",
+    "name": "ThreePaths x3 DS 12x1-12x3",
     "description": "Supports 12 teams of 1-3 players each, shared or unshared.",
     "version": "1.01",
     "creator": "Anonemous2",

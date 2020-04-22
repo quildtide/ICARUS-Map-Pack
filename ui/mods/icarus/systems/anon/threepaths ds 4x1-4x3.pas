@@ -1,6 +1,6 @@
 {
-    "name": "ThreePaths DS",
-    "description": "Supports 4 teams of 1-3 players each, shared or unshared",
+    "name": "ThreePaths DS 4x1-4x3",
+    "description": "Supports 4 teams of 1-3 players each, shared or unshared. Also alternative supports 1v1.",
     "version": "1.01",
     "creator": "Anonemous2",
     "players": [

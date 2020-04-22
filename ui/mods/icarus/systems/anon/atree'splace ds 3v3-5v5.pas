@@ -1,5 +1,5 @@
 {
-    "name": "ATree'sPlace DS",
+    "name": "ATree'sPlace DS 3v3-5v5",
     "description":"A dynamic spawn map almost entirely covered in trees, with a few platforms above the foliage, reflected through its center. Players share spawns with their teammates. Supports 2 teams of 1-5 players each, shared or unshared. Recommended 3v3 or 4v4.",
     "version":"1.02",
     "creator":"Anonemous2",

@@ -1,5 +1,5 @@
 {
-    "name": "System-Surge DS",
+    "name": "System-Surge DS 3x3-3x5",
     "description": "A large multi-planet system. Players share spawns with their teammates. Supports 3 teams of 1-5 players each, shared or non-shared. Recommended 3v3v3 or 4v4v4.",
     "version": "1.01",
     "creator": "Anonemous2",

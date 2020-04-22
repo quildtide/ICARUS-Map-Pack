@@ -1,5 +1,5 @@
 {
-    "name": "System-Shock DS",
+    "name": "System-Shock DS 5v5-10v10",
     "description": "A dual-planet system. Players share spawns with their teammates. Supports 2 teams of 1-10 players each, shared or unshared. Recommended 6v6 or 7v7.",
     "version": "1.1",
     "creator": "Anonemous2",

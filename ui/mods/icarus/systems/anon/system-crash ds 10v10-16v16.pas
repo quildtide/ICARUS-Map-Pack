@@ -1,5 +1,5 @@
 {
-    "name": "System-Crash DS",
+    "name": "System-Crash DS 10v10-16v16",
     "description":"A dynamic spawn map with 2 or 3 starting planets. An asteroid spawns into the system bewteen 1 to 40 minutes after start. The 3rd starting planet (the moon) becomes avalable if the system is being played as a 10v10 or greater. Players share spawns with their teammates. Supports 2 teams of 1-16 players each, shared or unshared. Recommended 10v10 or larger.",
     "version":"1.01",
     "creator":"Anonemous2",

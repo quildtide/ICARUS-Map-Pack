@@ -1,5 +1,5 @@
 {
-    "name": "Dunes DS",
+    "name": "Dunes DS 4v4-6v6",
     "description":"A dynamic spawn map with several paths to the enemy, reflected through its center. Players share spawns with their teammates. Supports 2 teams of 1-6 players each, shared or unshared. Recommended 4v4 or 5v5.",
     "version":"1.02",
     "creator":"Anonemous2",

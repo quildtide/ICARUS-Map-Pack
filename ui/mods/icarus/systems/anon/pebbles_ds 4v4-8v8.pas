@@ -1,6 +1,6 @@
 {
-    "name": "Pebbles DS",
-    "description": "Unshared or Shared armies duel planet system, recommended for 4v4. Players share spawns with their teammates.",
+    "name": "Pebbles DS 4v4-8v8",
+    "description": "Unshared or Shared armies dual planet system, recommended for 4v4. Players share spawns with their teammates.",
     "version": "1.0",
     "creator": "Anonemous2",
     "players": [

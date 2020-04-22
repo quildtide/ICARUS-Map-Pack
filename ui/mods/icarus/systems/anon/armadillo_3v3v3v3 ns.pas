@@ -1,5 +1,5 @@
 {
-    "name": "Armadillo 3v3v3v3 NS",
+    "name": "Armadillo 4x3 NS",
     "description": "",
     "version": "1.01",
     "creator": "Anonemous2",
