@@ -34,7 +34,6 @@ cShareSystems.load_pas("ICARUS - <10 Players", [
     "coui://ui/mods/icarus/systems/anon/ringoffire_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/sedimentary_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/vulgar_masses_5v5 ns.pas",
-    "coui://ui/mods/icarus/systems/monkey/war_infection_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/westward_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/diss/beach_hs_4v4-6v6.pas",
     "coui://ui/mods/icarus/systems/anon/dunes ds 4v4-6v6.pas",
@@ -43,7 +42,7 @@ cShareSystems.load_pas("ICARUS - <10 Players", [
     "coui://ui/mods/icarus/systems/anon/pebbles_ds 4v4-8v8.pas",
     "coui://ui/mods/icarus/systems/anon/threepaths ds 4x1-4x3.pas",
     "coui://ui/mods/icarus/systems/anon/spark.pas",
-    "coui://ui/mods/icarus/systems/diss/watreeya.pas",
+    "coui://ui/mods/icarus/systems/diss/watreeya 2.pas",
 ]);
 
 cShareSystems.load_pas("ICARUS - 11+ Players", [
@@ -60,7 +59,6 @@ cShareSystems.load_pas("ICARUS - 11+ Players", [
     "coui://ui/mods/icarus/systems/anon/zpra_7v7 ns.pas",
     "coui://ui/mods/icarus/systems/diss/the_blood_aqueduct_8v8 ns.pas",
     "coui://ui/mods/icarus/systems/anon/bury_the ant_8v8-4x4_ns.pas",
-    "coui://ui/mods/icarus/systems/monkey/colder_logic_8v8 ns.pas",
     "coui://ui/mods/icarus/systems/anon/system-double_ds 8v8-10v10.pas",
     "coui://ui/mods/icarus/systems/monkey/fake_history_9v9 ns.pas",
     "coui://ui/mods/icarus/systems/anon/system_re-boot ds 8v8-16v16.pas",
@@ -94,6 +92,10 @@ cShareSystems.load_pas("ICARUS - 11+ Players", [
 cShareSystems.load_pas("ICARUS - Legacy", [
     "coui://ui/mods/icarus/systems/anon/graveyardshift_3v3_ns.pas",
     "coui://ui/mods/icarus/systems/monkey/prison_colony_4v4 ns.pas",
+    
+    "coui://ui/mods/icarus/systems/monkey/war_infection_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/dirge_field_6v6 ns.pas",
+    
+    "coui://ui/mods/icarus/systems/monkey/colder_logic_8v8 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/killbox_10v10 ns.pas",
 ]);
