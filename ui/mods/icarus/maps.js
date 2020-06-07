@@ -21,7 +21,6 @@ cShareSystems.load_pas("ICARUS: 1v1 - 5v5 Players", [
     "coui://ui/mods/icarus/systems/anon/battle_of midway 5v5 ns.pas",
     "coui://ui/mods/icarus/systems/kiwi/chungus_5v5_v2.pas",
     "coui://ui/mods/icarus/systems/anon/divesmetallum_5v5.pas",
-    "coui://ui/mods/icarus/systems/monkey/fusile_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/fussion_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/the_iron_cross_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/diss/john_is old_5v5 ns.pas",
@@ -102,6 +101,7 @@ cShareSystems.load_pas("ICARUS: Variable Size", [
 cShareSystems.load_pas("ICARUS: Legacy", [
     "coui://ui/mods/icarus/systems/anon/graveyardshift_3v3_ns.pas",
     "coui://ui/mods/icarus/systems/monkey/prison_colony_4v4 ns.pas",
+    "coui://ui/mods/icarus/systems/monkey/fusile_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/war_infection_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/dirge_field_6v6 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/colder_logic_8v8 ns.pas",
