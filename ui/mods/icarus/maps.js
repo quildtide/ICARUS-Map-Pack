@@ -1,4 +1,4 @@
-cShareSystems.load_pas("ICARUS: 1v1 - 5v5 Players", [
+cShareSystems.load_pas("ICARUS: 1v1 - 5v5", [
     "coui://ui/mods/icarus/systems/monkey/execration_1v1 ns.pas",
     "coui://ui/mods/icarus/systems/anon/regolith&steel_1v1_ns.pas",
     "coui://ui/mods/icarus/systems/anon/locket_2v2_ns.pas",
@@ -30,7 +30,7 @@ cShareSystems.load_pas("ICARUS: 1v1 - 5v5 Players", [
     "coui://ui/mods/icarus/systems/anon/ringoffire_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/anon/sedimentary_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/vulgar_masses_5v5 ns.pas",
-    "coui://ui/mods/icarus/systems/anon/westward_5v5 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/westward_5v5 ns.pas"
 ]);
 
 cShareSystems.load_pas("ICARUS: 11+ Players", [
@@ -65,7 +65,7 @@ cShareSystems.load_pas("ICARUS: 11+ Players", [
     "coui://ui/mods/icarus/systems/anon/guns_24 ffa.pas",
     "coui://ui/mods/icarus/systems/anon/tirade_24 ffa.pas",
     "coui://ui/mods/icarus/systems/anon/kersmash_32 ffa.pas",
-    "coui://ui/mods/icarus/systems/anon/the_maul 32 ffa.pas",
+    "coui://ui/mods/icarus/systems/anon/the_maul 32 ffa.pas"
 ]);
 
 cShareSystems.load_pas("ICARUS: Variable Size", [
@@ -85,7 +85,7 @@ cShareSystems.load_pas("ICARUS: Variable Size", [
     "coui://ui/mods/icarus/systems/anon/beasts_ds 4v4-8v8.pas",
     "coui://ui/mods/icarus/systems/diss/fools_journey_ds 4v4-10v10.pas",
     "coui://ui/mods/icarus/systems/anon/pebbles_ds 4v4-8v8.pas",
-    "coui://ui/mods/icarus/systems/diss/alcor_6v6_7v7 ds.pas",,
+    "coui://ui/mods/icarus/systems/diss/alcor_6v6_7v7 ds.pas",
     "coui://ui/mods/icarus/systems/anon/system-shock_ds 5v5-10v10.pas",
     "coui://ui/mods/icarus/systems/anon/tale_of_two_worlds ds 6v6-8v8.pas",
     "coui://ui/mods/icarus/systems/anon/system-double_ds 8v8-10v10.pas",
@@ -106,5 +106,5 @@ cShareSystems.load_pas("ICARUS: Legacy", [
     "coui://ui/mods/icarus/systems/monkey/dirge_field_6v6 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/colder_logic_8v8 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/killbox_10v10 ns.pas",
-    "coui://ui/mods/icarus/systems/anon/tables_3v3v3v3 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/tables_3v3v3v3 ns.pas"
 ]);
