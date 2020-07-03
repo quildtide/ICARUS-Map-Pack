@@ -4,9 +4,9 @@
     "display_name": "Clan ICARUS Map Pack",
     "description": "Primarily maps for larger non-shared team games; NS = non-shared; DS = dynamic spawns; AxB = A teams of B players; assembled by members and friends of ICARUS. Check out Grand Homie's Map Pack for additional content.",
     "author": "Clan ICARUS (see map credits)",
-    "version": "1.17",
+    "version": "1.20",
     "build": "114185",
-    "date": "2020-05-26",
+    "date": "2020-07-03",
     "signature": "not yet implemented",
     "forum": "https://forums.planetaryannihilation.com/threads/clan-icarus-map-pack.73237/",
     "icon": "https://i.imgur.com/N4LTmoZ.png",
@@ -16,7 +16,6 @@
         "uk.pa.tetctree.server",
         "com.pa.grandhomie.simplebiomes.server"
     ],
-    "sort": "clan icarus map pack",
     "authors": [
         "Clan ICARUS (see map credits)"
     ],
