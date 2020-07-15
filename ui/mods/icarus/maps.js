@@ -105,6 +105,5 @@ cShareSystems.load_pas("ICARUS: Legacy", [
     "coui://ui/mods/icarus/systems/monkey/war_infection_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/dirge_field_6v6 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/colder_logic_8v8 ns.pas",
-    "coui://ui/mods/icarus/systems/monkey/killbox_10v10 ns.pas",
     "coui://ui/mods/icarus/systems/anon/tables_3v3v3v3 ns.pas"
 ]);
