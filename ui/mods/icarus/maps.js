@@ -42,7 +42,6 @@ cShareSystems.load_pas("ICARUS: 11+ Players", [
     "coui://ui/mods/icarus/systems/monkey/lion_killer_7v7 ns.pas",
     "coui://ui/mods/icarus/systems/anon/zpra_7v7 ns.pas",
     "coui://ui/mods/icarus/systems/diss/the_blood_aqueduct_8v8 ns.pas",
-    "coui://ui/mods/icarus/systems/anon/bury_the ant_8v8-4x4_ns.pas",
     "coui://ui/mods/icarus/systems/monkey/fake_history_9v9 ns.pas",
     "coui://ui/mods/icarus/systems/anon/clockwork_10v10-4x5_ns.pas",
 
@@ -105,5 +104,6 @@ cShareSystems.load_pas("ICARUS: Legacy", [
     "coui://ui/mods/icarus/systems/monkey/war_infection_5v5 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/dirge_field_6v6 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/colder_logic_8v8 ns.pas",
-    "coui://ui/mods/icarus/systems/anon/tables_3v3v3v3 ns.pas"
+    "coui://ui/mods/icarus/systems/anon/tables_3v3v3v3 ns.pas",
+    "coui://ui/mods/icarus/systems/anon/bury_the ant_8v8-4x4_ns.pas"
 ]);
