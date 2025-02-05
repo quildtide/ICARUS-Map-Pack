@@ -1,9 +1,9 @@
 {
-	"name": "Alcor HS 6v6/7v7",
-	"description": "Hemispheric Team-wide Spawns for 6v6 or 7v7. Supports both Non-Shared and Shared Armies. Barren Moon with 97 clusters of 4 metal points. Map by Grand Homie; Spawns by Dissonant.",
-	"version": "1.01",
-	"creator": "Grand Homie, Dissonant",
-	"players":[12, 14],
+	"name": "Alcor HS 5v5-7v7",
+	"description": "Hemispheric Team-wide Spawns for 1v1 through 10v10. Recommended team size is 5-7. Supports both Non-Shared and Shared Armies. Barren Moon with 97 clusters of 4 metal points. Map by Grand Homie; Spawns by quildtide.",
+	"version": "1.2.0",
+	"creator": "Grand Homie, quildtide",
+	"players":[2, 20],
 	"planets": [{
 		"name": "Alcor",
 		"mass": 10000,
@@ -2102,59 +2102,83 @@
 			],
 			"rules": [{
 					"min": 2,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 4,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 6,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 8,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 10,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 12,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 14,
-					"max": 14
+					"max": 20
+				},
+				{
+					"min": 16,
+					"max": 20
+				},
+				{
+					"min": 18,
+					"max": 20
+				},
+				{
+					"min": 20,
+					"max": 20
 				},
 				{
 					"min": 2,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 4,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 6,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 8,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 10,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 12,
-					"max": 14
+					"max": 20
 				},
 				{
 					"min": 14,
-					"max": 14
+					"max": 20
+				},
+				{
+					"min": 16,
+					"max": 20
+				},
+				{
+					"min": 18,
+					"max": 20
+				},
+				{
+					"min": 20,
+					"max": 20
 				}
 			]
 		}

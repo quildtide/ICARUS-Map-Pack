@@ -89,7 +89,7 @@ cShareSystems.load_pas("ICARUS: Variable Size", [
     "coui://ui/mods/icarus/systems/anon/beasts_ds 4v4-8v8.pas",
     "coui://ui/mods/icarus/systems/diss/fools_journey_ds 4v4-10v10.pas",
     "coui://ui/mods/icarus/systems/anon/pebbles_ds 4v4-8v8.pas",
-    "coui://ui/mods/icarus/systems/diss/alcor_6v6_7v7 ds.pas",
+    "coui://ui/mods/icarus/systems/diss/alcor_hs.pas",
     "coui://ui/mods/icarus/systems/anon/system-shock_ds 5v5-10v10.pas",
     "coui://ui/mods/icarus/systems/anon/tale_of_two_worlds ds 6v6-8v8.pas",
     "coui://ui/mods/icarus/systems/anon/system-double_ds 8v8-10v10.pas",
