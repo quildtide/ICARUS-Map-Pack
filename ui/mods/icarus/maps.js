@@ -1,6 +1,12 @@
-cShareSystems.load_pas("ICARUS: 1v1 - 5v5", [
-    "coui://ui/mods/icarus/systems/monkey/execration_1v1 ns.pas",
+cShareSystems.load_pas("ICARUS: 1v1", [
+    "coui://ui/mods/icarus/systems/diss/1v1_arctangent.pas",
+    "coui://ui/mods/icarus/systems/diss/1v1_london.pas",
+    "coui://ui/mods/icarus/systems/diss/1v1_mukden.pas",
     "coui://ui/mods/icarus/systems/anon/regolith&steel_1v1_ns.pas",
+    "coui://ui/mods/icarus/systems/monkey/execration_1v1 ns.pas"
+]);
+
+cShareSystems.load_pas("ICARUS: 2v2 - 5v5", [
     "coui://ui/mods/icarus/systems/anon/locket_2v2_ns.pas",
     "coui://ui/mods/icarus/systems/anon/rolling_hills_2v2 ns.pas",
     "coui://ui/mods/icarus/systems/monkey/thoth_2v2 ns.pas",
