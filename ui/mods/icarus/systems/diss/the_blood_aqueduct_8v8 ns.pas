@@ -1,8 +1,8 @@
 {
     "name": "The Blood Aqueduct 8v8 NS",
     "description": "8v8 unshared moon with high metal density. Mirrored North vs South, with sequential spawns, but spawns are unique for each player per team.",
-    "version": "1.11",
-    "creator": "Dissonant",
+    "version": "1.12",
+    "creator": "quildtide",
     "players": [
         16,
         16

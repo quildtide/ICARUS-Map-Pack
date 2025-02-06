@@ -1,8 +1,8 @@
 {
     "name": "Watreeya",
     "description": "Like Wadiya with trees.",
-	"version": "2.00",
-	"creator": "Dissonant",
+	"version": "2.01",
+	"creator": "quildtide",
 	"players":[2, 12],
     "planets": [
         {

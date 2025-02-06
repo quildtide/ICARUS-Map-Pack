@@ -1,8 +1,8 @@
 {
     "name": "Greater Wadiya",
     "description": "Like Wadiya but great again.",
-	"version": "2.00",
-	"creator": "Dissonant",
+	"version": "2.01",
+	"creator": "quildtide",
 	"players":[15, 25],
     "planets": [
         {

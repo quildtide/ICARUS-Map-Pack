@@ -1,8 +1,8 @@
 {
     "name": "The Dried Lake 7v7 NS",
     "description": "7v7 unshared moon with high metal density. Mirrored North vs South, with sequential spawns, but spawns are unique for each player per team.",
-    "version": "2.01",
-    "creator": "Dissonant",
+    "version": "2.02",
+    "creator": "quildtide",
     "players": [
         14,
         14

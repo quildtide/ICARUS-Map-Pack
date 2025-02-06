@@ -1,7 +1,7 @@
 {
     "name": "Arctangent",
     "description": "Macro/Raid-oriented 1v1 map with an orbital trampoline.",
-    "creator": "[ICARUS] quildtide",
+    "creator": "quildtide",
     "version": "0.3.0",
     "planets": [
         {

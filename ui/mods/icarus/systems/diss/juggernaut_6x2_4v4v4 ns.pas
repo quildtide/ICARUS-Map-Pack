@@ -1,8 +1,8 @@
  {
     "name": "Juggernaut 4v4v4/6x2 NS",
 "description":"4v4v4 or 6x2 (6 teams of 2) unshared barren moon with high metal density. All spawns are mirrored in a 6-way symmetry.",
-    "version":"1.02",
-    "creator":"Dissonant",
+    "version":"1.03",
+    "creator":"quildtide",
     "players":[12, 12],
 
     "planets": [

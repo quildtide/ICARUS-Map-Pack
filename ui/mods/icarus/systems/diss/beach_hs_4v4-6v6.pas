@@ -1,8 +1,8 @@
 {
     "name": "Beach HS 4v4-6v6",
     "description": "Hemispheric Team-wide Spawns for 4v4, 5v5, or 6v6. Supports both Non-Shared and Shared Armies. Flat with high metal and significant naval area.",
-	"version": "1.00",
-	"creator": "Dissonant",
+	"version": "1.01",
+	"creator": "quildtide",
 	"players":[8, 12],
     "planets": [
         {

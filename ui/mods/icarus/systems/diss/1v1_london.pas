@@ -1,7 +1,7 @@
 {
     "name": "London",
     "description": "Macro/Raid-oriented 1v1 map with an orbital trampoline. A bridge at the center has fallen, allowing only amphibious and hover units to pass.",
-    "creator": "[ICARUS] quildtide",
+    "creator": "quildtide",
     "version": "0.9.3",
     "planets": [
         {

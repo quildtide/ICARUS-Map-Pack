@@ -1,8 +1,8 @@
 {
     "name": "Lava Chamber 7v7 NS",
     "description": "7v7 unshared lava planet with EXTREMELY high metal density. Mirrored North vs South, with sequential spawns, but spawns are unique for each player per team.",
-    "version": "1.01",
-    "creator": "Dissonant",
+    "version": "1.02",
+    "creator": "quildtide",
     "players": [
         14,
         14

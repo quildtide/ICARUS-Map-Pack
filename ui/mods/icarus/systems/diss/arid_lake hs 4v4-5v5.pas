@@ -1,8 +1,8 @@
 {
     "name": "Arid Lake HS 4v4-5v5",
     "description": "Hemispheric Team-wide Spawns for 4v4 or 5v5. Supports both Non-Shared and Shared Armies. Flat with high metal.",
-	"version": "1.00",
-	"creator": "Dissonant",
+	"version": "1.01",
+	"creator": "quildtide",
 	"players":[8, 10],
     "planets": [
         {

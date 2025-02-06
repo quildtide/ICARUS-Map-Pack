@@ -1,7 +1,7 @@
 {
     "name": "Mukden",
     "description": "High-tempo 1v1 Map with an orbital trampoline.",
-    "creator": "[ICARUS] quildtide",
+    "creator": "quildtide",
     "version": "0.5.0",
     "planets": [
         {

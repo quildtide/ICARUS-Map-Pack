@@ -1,8 +1,8 @@
 {
     "name": "The Fool's Journey DS 4v4-10v10",
     "description": "Hectic Multiplanet System that supports 2 teams of up to 10 players each. Supports Non-Shared and Shared Armies alike.",
-	"version": "2.00",
-	"creator": "Dissonant",
+	"version": "2.01",
+	"creator": "quildtide",
 	"players":[8, 20],
     "planets": [
         {

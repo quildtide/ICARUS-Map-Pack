@@ -1,8 +1,8 @@
 {
     "name": "The Ledge 6v6 NS",       
     "description":"6v6 unshared moon with high metal density. Mirrored North vs South, with sequential spawns, but spawns are unique for each player per team.",
-    "version":"1.01",
-    "creator":"Dissonant",
+    "version":"1.02",
+    "creator":"quildtide",
     "players":[12, 12],
     "planets": [
         {
